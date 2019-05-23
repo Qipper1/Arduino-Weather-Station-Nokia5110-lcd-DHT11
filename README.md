@@ -8,6 +8,6 @@ This project is a mini weather station based on Nokia 5110 lcd and DHT11 humidit
 
 - INSTRUCTIONS - 
 
-Click the DOWNLOADS button in the top right corner, unzip the main archive and copy the uncompressed libraries folders  and place the libraries folders on C:\Users\"YOUR PC NAME "\Documents\Arduino\libraries. You may need to create the libraries subfolder if its your first library. Restart the IDE.
+Click the DOWNLOADS button in the top right corner, unzip the main archive and copy the uncompressed libraries folders  and place the libraries folders on C:\Users\"YOUR PC NAME "\Documents\Arduino\libraries. You may need to create the libraries subfolder if its your first library. Restart Arduino IDE.
 
  
