@@ -4,7 +4,7 @@ Arduino weather station with Nokia 5110 lcd and DHT11 humidity &amp; temperature
 
  Hello , Humans ! 
  
-This project is a mini weather station based on Nokia 5110 lcd and DHT11 humidity & temperature sensor . The project works perfectly with attached libraries and you have an jpg file with the project connections . 
+This project is a mini weather station based on Nokia 5110 lcd and DHT11 humidity & temperature sensor . The project works perfectly with attached libraries and you have an jpg file with the project connections and the code .
 
 - INSTRUCTIONS 
 
