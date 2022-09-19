@@ -1,5 +1,5 @@
 
- Hello , Humans ! 
+ Hi!
  
 This project is a mini weather station based on Nokia 5110 lcd and DHT11 humidity & temperature sensor . The project works perfectly with  attached libraries  and I uploaded a jpg file with the project connections and the code created by me . 
 
